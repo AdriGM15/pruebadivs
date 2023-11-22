@@ -1,0 +1,31 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+
+
+h1,h2{
+    margin: 10px; 
+}
+
+.div{
+   
+    border: 2px solid gray;
+    margin: 0px;
+  }
+
+  ul{
+    border: 2px solid green;
+   
+  }
+
+  .div2{
+    border: 2px solid gray;
+    margin: 0px;
+  }
+
+h1{
+  margin: 0;
+  border: blue solid 2px;
+  margin-top: 1%;
+}
