@@ -18,7 +18,7 @@
     font-family: 'Courier New', Courier, monospace;
     color: white;
     font-size: 500%;
-    margin-bottom: 0,5em;
+    margin-bottom: 0.5em;
 }
 
 .titulo .btn{
@@ -33,11 +33,11 @@
 }
 
 .titulo .btn:hover{
-    background-color: #2196f3;
+    background-color: #2196F3;
 }
 
-#incio{
-    background-color: #2196f3;
+#inicio{
+    background-color: #2196F3;
     text-align: center;
 }
 
@@ -64,7 +64,7 @@ nav a:hover{
 }
 
 p{
-    border: 1px solid #2196f3;
+    border: 1px solid #2196F3;
     font-size: 160%;
     margin: 3%;
     padding: 3%;
@@ -75,10 +75,10 @@ p{
 
 .leyenda{
     font-family: 'Courier New', Courier, monospace;
-    color: #2196f3;
+    color: #2196F3;
     font-size: 200%;
     padding: 1em;
-    text-shadow: 2pt 2px 8px #000;
+    text-shadow: 2pX 2px 8px #000;
 }
 
 .leyblanco{
@@ -86,5 +86,5 @@ p{
 }
 
 #estamos{
-    background-color: #2196f3;
+    background-color: #2196F3;
 }
